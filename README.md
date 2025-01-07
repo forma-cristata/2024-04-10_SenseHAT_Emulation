@@ -1,4 +1,4 @@
-# Raspberry Pi LED Display Timer
+# RaspberryPi LED Display Timer
 
 A fun project using the Raspberry Pi and Sense HAT emulator to create interactive LED display timers. This project demonstrates how to control an 8x8 LED matrix to create visual countdown effects.
 
